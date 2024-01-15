@@ -1,6 +1,6 @@
 
 # DartNode 
-![](https://app.dartnode.com/assets/dash/images/brand/logo.png)
+![](https://ti-dyy.pages.dev/file/ab9e50be99f21b4faa47c.png)
 [dartnode](https://app.dartnode.com/).
 
 # Telegraph-Image
