@@ -1,7 +1,7 @@
 
 # DartNode 
 ![](https://app.dartnode.com/assets/dash/images/brand/logo.png)
-[Cloudflare](https://app.dartnode.com/).
+[dartnode](https://app.dartnode.com/).
 
 # Telegraph-Image
 免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。
